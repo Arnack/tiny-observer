@@ -4,9 +4,6 @@ Observe objects for changes
 
 **Installation**
 
-    yarn add tinyobserver
-or
-
     npm i tinyobserver --save
 
 **Usage**
